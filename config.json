@@ -2,7 +2,7 @@
     "title":"SoyPerry's Blog ", 
     "subTitle":"Try everything", 
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg", 
-    "GMEEK_VERSION":"last" 
+    "GMEEK_VERSION":"last",
     "displayTitle":"", 
     "homeUrl":" ", 
     "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg", 
@@ -19,5 +19,5 @@
     "nightTheme":"dark_colorblind", 
     "urlMode":"pinyin",
     "style":"", 
-    "script":"", 
+    "script":""
 }
