@@ -1,23 +1,23 @@
 {
-    "title":"SoyPerry's Blog ", # 【必填】博客标题
-    "subTitle":"Try everything", # 【必填】博客描述&自述
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg", # 【必填】博客头像
-    "GMEEK_VERSION":"last" # 【必填】Gmeek版本，一般写last也可以用具体tag版本
-    "displayTitle":"", # 	用于头像后面的标题展示，如果和title一致则不用添加
-    "homeUrl":" ", # 博客的主页地址，自定义域名时需要配置
-    "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg", # 页面的favicon地址，如果和avatarUrl一致则不用添加
-    "email":" ",  # 用于自动提交仓库时用，不添加也可以
-    "startSite":"03/24/2024", # 	用于页面底部显示网站运行天数
-    "filingNum":" ", # 用于页面底部显示备案信息
-    "onePageListNum":15, # 用于首页每页展示的文章数量
-    "singlePage":[], # 自定义独立页面，例如about或者link
-    "commentLabelColor":"#006b75", # 用于自定义显示评论数量标签的颜色
-    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],  # 用于自定义显示不同年份标签的颜色
-    "i18n":"EN", 用于定义博客语言，目前支持EN/CN/RU
-    "UTC":8, # 用于定义时区
-    "dayTheme":"light", # 用于定义亮主题
-    "nightTheme":"dark_colorblind", # 用于定义暗主题
-    "urlMode":"pinyin", # 用于定义文章链接生成模式，目前支持pinyin/issue/ru_translit
-    "style":"", # 用于自定义文章页全局CSS
-    "script":"",  # 	用于自定义文章页全局JavaScript
+    "title":"SoyPerry's Blog ", 
+    "subTitle":"Try everything", 
+    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg", 
+    "GMEEK_VERSION":"last" 
+    "displayTitle":"", 
+    "homeUrl":" ", 
+    "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg", 
+    "email":" ",  
+    "startSite":"03/24/2024", 
+    "filingNum":" ", 
+    "onePageListNum":15, 
+    "singlePage":[], 
+    "commentLabelColor":"#006b75", 
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"], 
+    "i18n":"EN", 
+    "UTC":8, 
+    "dayTheme":"light", 
+    "nightTheme":"dark_colorblind", 
+    "urlMode":"pinyin",
+    "style":"", 
+    "script":"", 
 }
